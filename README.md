@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ng Wen Hao Dennis
+# 👋 Hi, I’m Ng Wen Hao Dennis
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Flutter, Javascript
 - 📫 How to reach me ...
