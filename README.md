@@ -1,6 +1,6 @@
-# 👋 Hi, I’m Ng Wen Hao Dennis
+# Hi! I’m Ng Wen Hao Dennis 😄
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Flutter, Javascript
+- 🌱 I’m currently learning Flutter, Javascript, Vue
 - 📫 How to reach me
 
 <a href="https://www.linkedin.com/in/ng-wen-hao-dennis-1b5650131/#gh-light-mode-only">
