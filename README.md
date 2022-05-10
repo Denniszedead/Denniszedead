@@ -9,6 +9,18 @@
 <a href="https://www.linkedin.com/in/ng-wen-hao-dennis-1b5650131/#gh-dark-mode-only">
   <img src="./image/linkedin_dark.svg#gh-dark-mode-only" width="25">
 </a>
+<a href="https://www.instagram.com/denniszedead/#gh-light-mode-only">
+  <img src="./image/instagram_day.svg#gh-light-mode-only" width="25">
+</a>
+<a href="https://www.instagram.com/denniszedead/#gh-dark-mode-only">
+  <img src="./image/linkedin_dark.svg#gh-dark-mode-only" width="25">
+</a>
+<a href="https://www.facebook.com/dennisngwh/#gh-light-mode-only">
+  <img src="./image/facebook_day.svg#gh-light-mode-only" width="25">
+</a>
+<a href="https://www.facebook.com/dennisngwh/#gh-dark-mode-only">
+  <img src="./image/facebook_dark.svg#gh-dark-mode-only" width="25">
+</a>
 
 ## Skills
 
@@ -25,7 +37,3 @@
 Denniszedead/Denniszedead is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-[linkedin]: 
-[instagram]: https://www.instagram.com/denniszedead/
-[facebook]: https://www.facebook.com/dennisngwh/
