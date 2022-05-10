@@ -3,17 +3,29 @@
 - 🌱 I’m currently learning Flutter, Javascript
 - 📫 How to reach me
 
+<a href="https://www.linkedin.com/in/ng-wen-hao-dennis-1b5650131/#gh-light-mode-only">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg#gh-light-mode-only" width="25">
+</a>
+<a href="https://www.linkedin.com/in/ng-wen-hao-dennis-1b5650131/#gh-dark-mode-only">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg#gh-dark-mode-only" width="25" style="filter: brightness(0) invert(1)">
+</a>
+
 ## Skills
 
+## Github Stats
+<a href="https://github.com/denniszedead#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?username=denniszedead&show_icons=true#gh-light-mode-only" alt="My GitHub Stats" />
+</a>
 
-## Stats
-![Denniszedead's GitHub stats](https://github-readme-stats.vercel.app/api?username=denniszedead&theme=&show_icons=true)
+<a href="https://github.com/denniszedead#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?username=denniszedead&theme=dark&show_icons=true#gh-dark-mode-only" alt="My GitHub Stats" />
+</a>
 
 <!---
 Denniszedead/Denniszedead is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-[linkedin]: https://www.linkedin.com/in/ng-wen-hao-dennis-1b5650131/
+[linkedin]: 
 [instagram]: https://www.instagram.com/denniszedead/
 [facebook]: https://www.facebook.com/dennisngwh/
