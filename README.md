@@ -5,17 +5,17 @@
 - 🌱 I’m currently learning Flutter, Javascript, Vue
 
 ## Skills
-<img float="left" src="./image/flutter.svg" width="50">
+<img align="left" src="./image/flutter.svg" width="50">
 &nbsp;
-<img float="left" src="./image/dart.png" width="50">
+<img align="left" src="./image/dart.png" width="50">
 &nbsp;
-<img float="left" src="./image/javascript.svg" width="50">
+<img align="left" src="./image/javascript.svg" width="50">
 &nbsp;
-<img float="left" src="./image/java.svg" width="50">
+<img align="left" src="./image/java.svg" width="50">
 &nbsp;
-<img float="left" src="./image/python.svg" width="50">
+<img align="left" src="./image/python.svg" width="50">
 &nbsp;
-<img float="left" src="./image/C.svg" width="50">
+<img align="left" src="./image/C.svg" width="50">
 
 ## Github Stats
 <a href="https://github.com/denniszedead#gh-light-mode-only">
