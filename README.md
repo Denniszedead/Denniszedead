@@ -1,6 +1,6 @@
 # Hi! I’m Ng Wen Hao Dennis 😄
-- I am a year 3 student from the National University of Singapore
-- I am currently majoring in Computer Science
+- 📖 I am a year 3 student from the National University of Singapore
+- 🖥️ I am currently majoring in Computer Science
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Flutter, Javascript, Vue
 
