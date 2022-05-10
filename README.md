@@ -4,10 +4,11 @@
 - 📫 How to reach me
 
 ## Skills
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22" style="filter: brightness(0) invert(1);">](linkedin)
 
-
-## Stats
-![Denniszedead's GitHub stats](https://github-readme-stats.vercel.app/api?username=denniszedead&theme=&show_icons=true)
+## Github Stats
+![Denniszedead's GitHub stats](https://github-readme-stats.vercel.app/api?username=denniszedead&show_icons=true#gh-light-mode-only)
+![Denniszedead's GitHub stats](https://github-readme-stats.vercel.app/api?username=denniszedead&theme=dark&show_icons=true#gh-dark-mode-only)
 
 <!---
 Denniszedead/Denniszedead is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
