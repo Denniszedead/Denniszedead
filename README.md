@@ -6,15 +6,10 @@
 
 ## Skills
 <img align="left" src="./image/flutter.svg" width="50">
-&nbsp;
 <img align="left" src="./image/dart.png" width="50">
-&nbsp;
 <img align="left" src="./image/javascript.svg" width="50">
-&nbsp;
 <img align="left" src="./image/java.svg" width="50">
-&nbsp;
 <img align="left" src="./image/python.svg" width="50">
-&nbsp;
 <img align="left" src="./image/C.svg" width="50">
 
 ## Github Stats
