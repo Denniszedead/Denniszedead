@@ -4,10 +4,10 @@
 - 📫 How to reach me
 
 <a href="https://www.linkedin.com/in/ng-wen-hao-dennis-1b5650131/#gh-light-mode-only">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg#gh-light-mode-only" width="25">
+  <img src="./image/linkedin_day.svg#gh-light-mode-only" width="25">
 </a>
 <a href="https://www.linkedin.com/in/ng-wen-hao-dennis-1b5650131/#gh-dark-mode-only">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg#gh-dark-mode-only" width="25" style="filter: brightness(0) invert(1)">
+  <img src="./image/linkedin_dark.svg#gh-dark-mode-only" width="25">
 </a>
 
 ## Skills
