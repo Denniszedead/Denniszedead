@@ -23,7 +23,7 @@
 </a>
 
 ## Skills
-
+<img src="./image/python.svg" width="50">
 ## Github Stats
 <a href="https://github.com/denniszedead#gh-light-mode-only">
   <img src="https://github-readme-stats.vercel.app/api?username=denniszedead&show_icons=true#gh-light-mode-only" alt="My GitHub Stats" />
