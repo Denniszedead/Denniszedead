@@ -4,6 +4,17 @@
 - 📫 How to reach me
 
 ## Skills
+<img src="./image/flutter.svg" width="50">
+&nbsp;
+<img src="./image/dart.png" width="50">
+&nbsp;
+<img src="./image/javascript.svg" width="50">
+&nbsp;
+<img src="./image/java.svg" width="50">
+&nbsp;
+<img src="./image/python.svg" width="50">
+&nbsp;
+<img src="./image/C.svg" width="50">
 
 ## Github Stats
 <a href="https://github.com/denniszedead#gh-light-mode-only">
