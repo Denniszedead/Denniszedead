@@ -10,6 +10,7 @@
 <img align="left" src="./image/javascript.svg" width="50">
 <img align="left" src="./image/java.svg" width="50">
 <img align="left" src="./image/python.svg" width="50">
+<img align="left" src="./image/vue.svg" width="50">
 <img src="./image/C.svg" width="50">
 
 ## Github Stats
