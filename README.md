@@ -5,13 +5,21 @@
 - 🌱 I’m currently learning Flutter, Javascript, Vue
 
 ## Skills
-<img align="left" src="./image/flutter.svg" width="50">
-<img align="left" src="./image/dart.png" width="50">
-<img align="left" src="./image/javascript.svg" width="50">
-<img align="left" src="./image/java.svg" width="50">
-<img align="left" src="./image/python.svg" width="50">
-<img align="left" src="./image/vue.svg" width="50">
-<img src="./image/C.svg" width="50">
+### Language:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="50"/>
+
+
+### Framework:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="50"/>
+
 
 ## Github Stats
 <a href="https://github.com/denniszedead#gh-light-mode-only">
